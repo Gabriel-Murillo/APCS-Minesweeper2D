@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Minesweeper 2D
+PURPOSE OF PROJECT: To print out a minesweeper board, which includes the bombs and numbers.
+VERSION or DATE: Apr 22, 2017
